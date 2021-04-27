@@ -1,6 +1,5 @@
 
-## ` 👋 Hi, I’m Sebastian. `<br> 
-# 📚 I’m currently learning Javascript.
-# 💞️ I would like to work as a web dev.<br>
-
-📫 Interessted? Contact me!
+<h1> 👋 Hi, I’m Sebastian. <br> 
+<h3> 📚 I’m currently learning Javascript, React, Node.JS any many more.. <br>
+<h3> 💞️ I would like to work as web dev.<br>
+<h5> 📫 Interessted? Contact me!
