@@ -3,3 +3,4 @@
 <h2> 👋 Hi, I’m Sebastian. 
 <h4> I’m currently learning HTML, CSS, Javascript, React, Node.JS and many more..<br>
 
+Contact me!
