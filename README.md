@@ -6,7 +6,7 @@
 ![Current Version](https://img.shields.io/badge/REACT-7ca286.svg)
 ![Current Version](https://img.shields.io/badge/Node.JS-3b4982.svg)
 
-<h2> 👋 Hi, Its me.. Sebastian. 
-<h4> I’m currently learning HTML, CSS, Javascript, React, Node.JS and many more..<br>
-
-Contact me!
+<h2> 👋 Hi, i'm Sebastian. 
+  
+<h4> coding is my Hobby.
+<h4> Projects for my Portfolio..  work in progress
