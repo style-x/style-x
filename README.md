@@ -6,7 +6,13 @@
 ![Current Version](https://img.shields.io/badge/REACT-7ca286.svg)
 ![Current Version](https://img.shields.io/badge/Node.JS-3b4982.svg)
 
-<h2> 👋 Hi, i'm Sebastian. 
-  
-<h4> coding is my Hobby.
-<h4> Projects for my Portfolio..  work in progress
+{
+  "version_date": "2021-10-21"
+  "dude": {
+    "name": "Sebastian",
+    "age": 35,
+    "state": "NRW",
+    "city": "Mülheim an der Ruhr"
+  }
+}
+    
