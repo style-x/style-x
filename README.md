@@ -14,5 +14,15 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"state": "NRW",
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"city": "Mülheim an der Ruhr"
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
+<br>&nbsp;&nbsp;&nbsp;"skills": {
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"HTML",
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"CSS",
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Javascript",
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"React.JS",
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"PHP",
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"mySQL",
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Node.JS",
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"mongoDB"
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
 <br>}
     
