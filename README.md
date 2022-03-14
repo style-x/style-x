@@ -9,10 +9,10 @@
 ![Current Version](https://img.shields.io/badge/Docker-ffffff.svg)
 
 <br>{
-<br>&nbsp;&nbsp;&nbsp;"version_date": "2021-10-21",
+<br>&nbsp;&nbsp;&nbsp;"version_date": "13.März 2022",
 <br>&nbsp;&nbsp;&nbsp;"dude": {
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"name": "Sebastian",
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"age": 35,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"age": 36,
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"state": "NRW",
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"city": "Mülheim an der Ruhr"
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;},
@@ -24,7 +24,6 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"PHP",
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"mySQL",
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Node.JS",
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"mongoDB"
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
 <br>}
     
